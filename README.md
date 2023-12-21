@@ -19,17 +19,17 @@
  
 <u>Υλικά που θα χρειαστούμε :</u>
 <ul>
-<li>Arduino UNO R4 WiFi	            1</li>
-<li>Gravity HUSKYLENS camera	    1</li>
-<li>Robot Smart Car 2WD	            1</li>
-<li>Dual Motor Driver Module L298N  1</li>
-<li>Πλακέτα Δοκιμών	            1</li>
-<li>Jumper Wires F-M	            3</li>
-<li>Servo                   	    5</li>
-<li>ESP8266 WiFi Module	            1</li>
-<li>Ultrasonic Sensor	            1</li>
-<li>I2c Display	                    1</li>
-<li>Μπαταριοθήκη 4xAΑ - με USB	    1</li>
-<li>Διάφορες μπαταρίες 	            1</li>
-<li>3D Printer Filament	            1</li>
+<li>Arduino UNO R4 WiFi	    x        1</li>
+<li>Gravity HUSKYLENS camera	x    1</li>
+<li>Robot Smart Car 2WD	      x      1</li>
+<li>Dual Motor Driver Module L298N x 1</li>
+<li>Πλακέτα Δοκιμών	       x     1</li>
+<li>Jumper Wires F-M	      x      3</li>
+<li>Servo                  x 	    5</li>
+<li>ESP8266 WiFi Module	   x         1</li>
+<li>Ultrasonic Sensor	     x       1</li>
+<li>I2c Display	           x         1</li>
+<li>Μπαταριοθήκη 4xAΑ - με USB	 x   1</li>
+<li>Διάφορες μπαταρίες 	        x    1</li>
+<li>3D Printer Filament	        x    1</li>
 </ul>
