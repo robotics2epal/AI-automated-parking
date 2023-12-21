@@ -17,18 +17,19 @@
 Θα δημιουργήσουμε σε 3d εκτυπωτή το ρομποτικό όχημα που θα παραλαμβάνει το όχημα του πελάτη και οτιδήποτε σχετίζεται με τη γενικότερη διαχείριση του πάρκινγκ.
 <p>
 
-Υλικά που θα χρειαστούμε
-	
-Arduino UNO R4 WiFi	            1
-Gravity HUSKYLENS camera	      1
-Robot Smart Car 2WD	            1
-Dual Motor Driver Module L298N	1
-Πλακέτα Δοκιμών	                1
-Jumper Wires F-M	              3
-Servo                   	      5
-ESP8266 WiFi Module	            1
-Ultrasonic Sensor	              1
-I2c Display	                    1
-Μπαταριοθήκη 4xAΑ - με USB	    1
-Διάφορες μπαταρίες 	            1
-3D Printer Filament	            1
+<u>Υλικά που θα χρειαστούμε</u>
+<ul>
+<li>Arduino UNO R4 WiFi	            1</li>
+<li>Gravity HUSKYLENS camera	    1</li>
+<li>Robot Smart Car 2WD	            1</li>
+<li>Dual Motor Driver Module L298N  1</li>
+<li>Πλακέτα Δοκιμών	            1</li>
+<li>Jumper Wires F-M	            3</li>
+<li>Servo                   	    5</li>
+<li>ESP8266 WiFi Module	            1</li>
+<li>Ultrasonic Sensor	            1</li>
+<li>I2c Display	                    1</li>
+<li>Μπαταριοθήκη 4xAΑ - με USB	    1</li>
+<li>Διάφορες μπαταρίες 	            1</li>
+<li>3D Printer Filament	            1</li>
+</ul>
