@@ -39,7 +39,8 @@
 [Βίντεο από τη λειτουργία του project]
 
 [![Αυτοοδηγούμενο όχημα](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/6md6j5sVoYY)
-[![Αυτοοδηγούμενο όχημα](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/6md6j5sVoYY)
+<br><br>
+[![AI automated parking](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/6md6j5sVoYY)
 <p>
  [![AI automated parking](https://youtu.be/zyMolJCQ07g)
 
